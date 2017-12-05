@@ -11,4 +11,4 @@ Exercises solved for the Practical Statistics Module of Udacity's DAND: assignme
 - "conditional_probability_bayes_rule.ipynb" is evaluation of Cancer dataset. We compute **Conditional probabilities** of having cancer or not and False Positives
 - "simpsons_paradox.ipynb" - Here, we work with Admissions Dataset to calculate proportions of majors, majors for each gender as well as acceptance rates by gender and by major.
 - "simulating_coin_flips.ipynb" - Coin Flips are computed in this file using **NumPy**. We get to view how actual probabilities edge closer to theoretical numerical values as the number of flips becomes larger.
-
+- "Sampling Distributions.ipynb" - Creating samples for students' coffee drinking habits, calculating statistics and plotting values. 
