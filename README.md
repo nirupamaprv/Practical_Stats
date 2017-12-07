@@ -8,7 +8,7 @@ Exercises solved for the Practical Statistics Module of Udacity's DAND: assignme
 - Files in .pynb format are in Python 3, coded using either Udacity's in-course workspace or Anaconda Navigator. These files also include *Markdown* cells.
 
 ## .ipynb File Overview
-- "Central Limit Theorem.ipynb" and "Central Limit Theorem - Part II.ipynb" explain concept of **Central Limit Theorem** via code
+- "Central Limit Theorem.ipynb", "Central Limit Theorem - Part II.ipynb" and "Central Limit Theorem - Part III.ipynb" explain concept of **Central Limit Theorem** via code
 - "Law of Large Numbers.ipynb" reinforces topic of **Law of Large Numbers** using numPy and **matplotlib** packages
 - "conditional_probability_bayes_rule.ipynb" is evaluation of Cancer dataset. We compute **Conditional probabilities** of having cancer or not and False Positives
 - "simpsons_paradox.ipynb" - Here, we work with Admissions Dataset to calculate proportions of majors, majors for each gender as well as acceptance rates by gender and by major.
